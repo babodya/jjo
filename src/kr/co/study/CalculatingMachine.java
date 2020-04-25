@@ -21,7 +21,7 @@ public class CalculatingMachine {
 		}
 
 		Scan = new Scanner(System.in);
-		System.out.println("사칙연산자를 고르세요.");
+		System.out.println("사칙연산자를 고르세요!");
 		System.out.println("1. + (더하기)");
 		System.out.println("2. - (빼기)");
 		System.out.println("3. * (곱하기)");
